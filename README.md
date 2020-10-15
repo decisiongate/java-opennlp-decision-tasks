@@ -7,3 +7,7 @@
 
 ## Technology stack
 * IntelliJ IDEA Ultimate
+
+## Features
+* build plugins: maven-compiler-plugin, maven-assembly-plugin
+* ChunkerME, ChunkerModel, PerformanceMonitor, ParserTool, POSModelLoader, NameFinderME, TokenNameFinderModel, Parse, ParserFactory, ParserModel, POSModel, POSSample, POSTaggerME, SentenceDetectorME, SentenceModel, Tokenizer, TokenizerME, TokenizerModel, WhitespaceTokenizer, FileInputStream, ...
